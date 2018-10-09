@@ -7,9 +7,9 @@ demo code of prosodic events prediction applying CRFs
 Tools here can help with pre-processing the original data in diretory "./data/txt_with_stress".
 One example of the original data looks like:
 
-<a class="monospaced">
-&nbsp&nbsp1&nbsp&nbsp&nbsp&nbsp&nbsp3&nbsp&nbsp&nbsp1&nbsp&nbsp|&nbsp&nbsp2&nbsp&nbsp1&nbsp&nbsp&nbsp1&nbsp&nbsp&nbsp&nbsp1&nbsp4&nbsp&nbsp1<br>   
-Bright sunshine shimmers on the ocean. </a>
+<a style="font-family: Courier">
+&nbsp&nbsp1&nbsp&nbsp&nbsp&nbsp&nbsp3&nbsp&nbsp&nbsp1&nbsp&nbsp|&nbsp&nbsp2&nbsp&nbsp1&nbsp&nbsp&nbsp1&nbsp&nbsp&nbsp&nbsp1&nbsp4&nbsp&nbsp1<br>
+Bright sunshine shimmers on the ocean. </a><br>
 
 in which the numbers stand for the stress level of the corresponding syllable, and the "|" (vertical line) stands for phrase boundary.
 
