@@ -1,0 +1,2 @@
+1  2      2   1   3   |2  1    2     1    4
+I walked several times up and down the street.
